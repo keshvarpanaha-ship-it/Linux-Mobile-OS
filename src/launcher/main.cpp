@@ -1,6 +1,8 @@
-#include <iostream>
+#include "home.h"
 
 int main() {
-    std::cout << "LMOS Launcher Starting..." << std::endl;
+    HomeScreen home;
+    home.show();
+
     return 0;
 }

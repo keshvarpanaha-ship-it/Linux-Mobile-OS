@@ -6,4 +6,5 @@ add_executable(
     LMOSLauncher
     main.cpp
     ui.cpp
+    home.cpp
 )

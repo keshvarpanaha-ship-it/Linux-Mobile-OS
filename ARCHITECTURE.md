@@ -1,48 +1,46 @@
-# Linux Mobile OS Architecture
+# Linux Mobile OS (LMOS)
 
-## Core
+## Base
+Kali Linux (Rolling Release)
 
-- Linux Kernel
-- AOSP Framework
-- System Services
+## Kernel
+Linux Kernel
 
 ## User Interface
+LMOS UI (Qt 6)
 
-- LMOS Launcher
-- LMOS Settings
-- Notification Center
-- Quick Settings
+## Package Manager
+APT
+
+## Compatibility
+APK (Planned)
+Flatpak
+AppImage
 
 ## Default Applications
-
-- Phone
-- Messages
+- Launcher
+- Settings
+- Files
 - Camera
 - Gallery
-- Files
-- Calculator
-- Calendar
-- Clock
-- Music
-- Video Player
-- DuckDuckGo Browser
-- F-Droid
-- Termux
+- Browser
+- Store
+- AI Hub
+- Terminal
+- Updater
 
-## Developer Environment
-
+## Developer Tools
 - Git
 - Python
 - Node.js
-- Godot Engine
-- SSH
+- GCC
+- CMake
 
-## Security
-
-- App Permissions
-- File Encryption
-- Secure Boot (Future)
-
-## Updates
-
+## Features
 - OTA Updates
+- Rolling Release
+- Dark Mode
+- Light Mode
+- Desktop Mode
+- Multi-language
+- AI Integration

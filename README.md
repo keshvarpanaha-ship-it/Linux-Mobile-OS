@@ -35,3 +35,12 @@ Create a fast, private, developer-friendly mobile operating system without Googl
 Planning Phase
 
 Version: 0.1.0
+## Author
+
+**Arsha**
+
+GitHub:
+https://github.com/keshvarpanaha-ship-it
+
+Project:
+Linux Mobile OS (LMOS)

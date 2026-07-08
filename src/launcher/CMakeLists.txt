@@ -8,4 +8,5 @@ add_executable(
     ui.cpp
     home.cpp
     statusbar.cpp
+    appdrawer.cpp
 )

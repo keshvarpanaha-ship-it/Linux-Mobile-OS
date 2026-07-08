@@ -1,46 +1,38 @@
-# Linux Mobile OS (LMOS)
+# LMOS (Linux Mobile OS)
 
-Linux Mobile OS (LMOS) is an open-source mobile operating system project based on AOSP and the Linux kernel.
+LMOS is a mobile Linux operating system based on Kali Linux and the Linux kernel.
 
-## Vision
+## Base System
 
-Create a fast, private, developer-friendly mobile operating system without Google services.
+- Kali Linux
+- Linux Kernel
+- Debian Package System (APT)
+
+## Main Goals
+
+- Long term updates
+- Custom mobile interface
+- Security tools
+- Developer environment
+- Mobile Linux experience
 
 ## Features
 
-- Linux Kernel
-- AOSP Based
-- No Google Play Services
-- DuckDuckGo Browser
-- F-Droid Support
-- Termux Preinstalled
+- LMOS Launcher
+- Settings
+- Files
+- Terminal
+- Package Manager
+- OTA Updates
+- AI Hub
 - Developer Tools
-- APK Support
-- Privacy Focused
-- Open Source
 
-## Project Structure
+## Supported Devices (Planned)
 
-- kernel
-- system
-- launcher
-- settings
-- browser
-- apps
-- themes
-- docs
+- Samsung Galaxy A05
+- Samsung Galaxy A07
+- More ARM64 devices in the future
 
-## Status
+## Project Status
 
-Planning Phase
-
-Version: 0.1.0
-## Author
-
-**Arsha**
-
-GitHub:
-https://github.com/keshvarpanaha-ship-it
-
-Project:
-Linux Mobile OS (LMOS)
+LMOS 0.1 Alpha

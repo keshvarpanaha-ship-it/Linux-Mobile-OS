@@ -1,31 +1,72 @@
 # LMOS Roadmap
 
 ## LMOS 0.1 Alpha
-- Project Created
 
-## LMOS 0.2
-- UI Design
+Base: Kali Linux
 
-## LMOS 0.3
-- Launcher
+Features
 
-## LMOS 0.4
+- Boot System
+- Init System
+- Services Manager
+- LMOS Launcher
 - Settings
-
-## LMOS 0.5
 - Files
+- Terminal
+- Package Manager
+- OTA Framework
 
-## LMOS 0.6
-- Camera
+Supported Devices
 
-## LMOS 0.7
-- Gallery
+- Samsung Galaxy A05
+- Samsung Galaxy A07
 
-## LMOS 0.8
+APK Support
+
+- Planned
+
+--------------------------------
+
+## LMOS 0.2 Beta
+
+Features
+
 - Browser
-
-## LMOS 0.9
+- Camera
+- Gallery
+- AI Hub
 - Store
+- Better Performance
 
-## LMOS 1.0
-- Stable Release
+Supported Devices
+
+- Samsung Galaxy A05
+- Samsung Galaxy A07
+- More ARM64 Devices
+
+APK Support
+
+- Initial Compatibility Layer
+
+--------------------------------
+
+## LMOS 0.3 Stable
+
+Features
+
+- Desktop Mode
+- Advanced Security
+- Better Battery Life
+- Faster Updates
+
+Supported Devices
+
+- Samsung Devices
+- Xiaomi
+- Motorola
+- Nokia
+- Generic ARM64 Phones
+
+APK Support
+
+- Improved Compatibility

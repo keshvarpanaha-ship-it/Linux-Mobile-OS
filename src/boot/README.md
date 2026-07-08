@@ -1,23 +1,22 @@
-# LMOS Boot
+# LMOS Boot System
 
-The LMOS Boot System is responsible for:
+LMOS boot architecture.
 
-- Boot Animation
-- Kernel Initialization
-- Hardware Detection
-- Service Startup
-- Launcher Startup
-
-Sequence
+## Boot Flow
 
 Bootloader
 ↓
 Linux Kernel
 ↓
-LMOS Init
+Init System
 ↓
-System Services
+LMOS Services
 ↓
-Boot Animation
-↓
-Launcher
+LMOS UI
+
+## Components
+
+- Boot Manager
+- Kernel Loader
+- Hardware Initialization
+- System Startup

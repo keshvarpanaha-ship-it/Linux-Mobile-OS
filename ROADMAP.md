@@ -2,24 +2,43 @@
 
 ## LMOS 0.1 Alpha
 
-Base: Kali Linux
+Base
 
-Features
+- Kali Linux
+- Linux Kernel
+- APT Package Manager
 
-- Boot System
-- Init System
+Core
+
+- Boot
+- Init
 - Services Manager
-- LMOS Launcher
+
+Applications
+
+- Launcher
 - Settings
 - Files
 - Terminal
-- Package Manager
+- Browser
+- Camera
+- Gallery
+
+Updates
+
 - OTA Framework
 
-Supported Devices
+Devices
 
 - Samsung Galaxy A05
 - Samsung Galaxy A07
+
+Input
+
+- USB Keyboard (OTG)
+- USB Mouse (OTG)
+- Bluetooth Keyboard
+- Bluetooth Mouse
 
 APK Support
 
@@ -31,17 +50,13 @@ APK Support
 
 Features
 
-- Browser
-- Camera
-- Gallery
 - AI Hub
 - Store
+- Desktop Mode
 - Better Performance
 
-Supported Devices
+Devices
 
-- Samsung Galaxy A05
-- Samsung Galaxy A07
 - More ARM64 Devices
 
 APK Support
@@ -54,19 +69,19 @@ APK Support
 
 Features
 
-- Desktop Mode
-- Advanced Security
+- External Display Support
 - Better Battery Life
 - Faster Updates
+- Improved Security
 
-Supported Devices
+Devices
 
-- Samsung Devices
+- Samsung
 - Xiaomi
 - Motorola
 - Nokia
-- Generic ARM64 Phones
+- Generic ARM64
 
-APK Support
+APK Compatibility
 
-- Improved Compatibility
+- Improved

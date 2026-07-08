@@ -7,4 +7,5 @@ add_executable(
     main.cpp
     ui.cpp
     home.cpp
+    statusbar.cpp
 )
